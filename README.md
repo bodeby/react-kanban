@@ -87,5 +87,5 @@ Project Link: [https://github.com/bodeby/react-kanban](https://github.com/bodeby
 [issues-shield]: https://img.shields.io/github/issues/bodeby/react-kanban.svg?style=for-the-badge
 [issues-url]: https://github.com/bodeby/react-kanban/issues
 [license-shield]: https://img.shields.io/github/license/bodeby/react-kanban.svg?style=for-the-badge
-[license-url]: https://github.com/bodeby/react-kanban/LICENSE.txt
+[license-url]: https://github.com/bodeby/react-kanban/blob/main/LICENSE.txt
 
