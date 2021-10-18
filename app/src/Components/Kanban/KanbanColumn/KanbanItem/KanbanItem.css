@@ -1,0 +1,7 @@
+.kanban-item {
+    cursor: grab;
+}
+
+.card-dragged {
+    opacity: .4;
+}
