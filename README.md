@@ -46,6 +46,7 @@
 * [React.js](https://reactjs.org/)
 * [Bootstrap](https://getbootstrap.com)
 * [React-icons](https://react-icons.github.io/react-icons/)
+* [Boredapi](https://www.boredapi.com/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
