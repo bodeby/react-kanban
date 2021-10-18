@@ -77,14 +77,14 @@ Project Link: [https://github.com/bodeby/react-kanban](https://github.com/bodeby
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/bodeby/react-kanban.svg?style=for-the-badge
+[contributors-url]: https://github.com/bodeby/react-kanban/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks//bodeby/react-kanban.svg?style=for-the-badge
 [forks-url]: https://github.com/bodeby/react-kanban/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/bodeby/react-kanban.svg?style=for-the-badge
 [stars-url]: https://github.com/bodeby/react-kanban/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/bodeby/react-kanban.svg?style=for-the-badge
 [issues-url]: https://github.com/bodeby/react-kanban/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/bodeby/react-kanban.svg?style=for-the-badge
 [license-url]: https://github.com/bodeby/react-kanban/LICENSE.txt
 
