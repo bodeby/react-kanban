@@ -79,7 +79,7 @@ Project Link: [https://github.com/bodeby/react-kanban](https://github.com/bodeby
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/bodeby/react-kanban.svg?style=for-the-badge
 [contributors-url]: https://github.com/bodeby/react-kanban/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks//bodeby/react-kanban.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/bodeby/react-kanban.svg?style=for-the-badge
 [forks-url]: https://github.com/bodeby/react-kanban/network/members
 [stars-shield]: https://img.shields.io/github/stars/bodeby/react-kanban.svg?style=for-the-badge
 [stars-url]: https://github.com/bodeby/react-kanban/stargazers
