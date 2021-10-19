@@ -17,8 +17,6 @@ export const Kanban = () => {
 
     // Fetch Items from Localstorage
     useEffect(() => {
-
-
         // Clean up Effect
         return () => {
             setPrefetch(true);
