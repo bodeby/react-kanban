@@ -21,6 +21,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f0c2c1fe-a920-49a4-aabb-68667b052b96/deploy-status)](https://app.netlify.com/sites/boredio/deploys)
 [![MIT License][license-shield]][license-url]
 
 
