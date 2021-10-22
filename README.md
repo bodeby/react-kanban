@@ -17,14 +17,14 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-<div align="center">
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f0c2c1fe-a920-49a4-aabb-68667b052b96/deploy-status)](https://app.netlify.com/sites/boredio/deploys)
-</div>
+
 
 
 <!-- PROJECT LOGO -->
